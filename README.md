@@ -1,2 +1,2 @@
-# Labs
-Material used during the lab sessions
+# ATTENTION ATTENTION!!!
+# HW2.ipynb should be reviewed for sumission
