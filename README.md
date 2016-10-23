@@ -1,1 +1,1 @@
-# HW2.ipynb should be reviewed for sumission
+# HW2.ipynb should be reviewed for submission
